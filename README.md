@@ -6,7 +6,7 @@ This project aims to classify the emotion on a person's face into one of **seven
 
 ## Dependencies
 
-* Python 3, [OpenCV](https://opencv.org/), [Tensorflow](https://www.tensorflow.org/)               
+* Python 3, [OpenCV](https://opencv.org/), [Tensorflow](https://www.tensorflow.org/)                     
 * To install the required packages, run `pip install -r requirements.txt`.      
                               
 ## Basic Usage               
